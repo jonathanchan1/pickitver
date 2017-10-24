@@ -22,7 +22,6 @@ void main (void)
         PORTB = 0xFF;                       //Turn on PORTB pins
         Delay1KTCYx(500);                   //wait
         
-        //changes
     }
     _asm
         sleep			//Put PIC to sleep so code stops 
