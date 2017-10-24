@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>pickitver</name>
+            <name>pickitver.X</name>
             <creation-uuid>5e25be66-c9eb-41f7-b981-14366c1891ab</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
